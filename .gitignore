@@ -1,2 +1,4 @@
 lastfm-dataset-1K/
 data/
+.venv/
+lime/
