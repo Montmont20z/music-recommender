@@ -1,11 +1,23 @@
 ### Installation
 Initialize virtual environment
-```
+make sure to use python 3.12
+```bash
 python3 -m venv .venv
 ```
 
+# 2. Activate the environment
+```bash
+.\venv\Scripts\activate
 ```
-pip install pandas
+
+# 3. Upgrade pip to ensure smooth installation
+```bash
+python -m pip install --upgrade pip
+```
+
+# 4. Install the specific libraries from your import list
+```bash
+pip install pandas numpy matplotlib scipy scikit-learn shap lime
 ```
 
 
