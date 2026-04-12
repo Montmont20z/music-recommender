@@ -31,3 +31,4 @@ https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spoti
 
 
 download lastfm-dataset-1K.tar.gz, then extract to `data/lastfm-dataset-1K/`
+download spotify-dataset, then extract to `data/spotify-dataset/`
